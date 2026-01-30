@@ -13,7 +13,7 @@ export const EditorPage: React.FC = () => {
             <header className="editor-header">
                 <div className="editor-logo" onClick={() => navigate('/')}>
                     <span className="logo-icon">✦</span>
-                    <span className="logo-text">Craftly</span>
+                    <span className="logo-text">Pixora</span>
                 </div>
                 <div className="editor-title">Untitled Project</div>
                 <div className="editor-actions">

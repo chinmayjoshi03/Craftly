@@ -21,7 +21,7 @@ export const HomePage: React.FC = () => {
             <nav className="home-nav">
                 <div className="home-logo">
                     <span className="logo-icon">✦</span>
-                    <span className="logo-text">Craftly</span>
+                    <span className="logo-text">Pixora</span>
                 </div>
                 <div className="home-nav-links">
                     <a onClick={() => scrollToSection('features')}>Features</a>
@@ -194,7 +194,7 @@ export default function Screen() {
                 <div className="footer-content">
                     <div className="footer-logo">
                         <span className="logo-icon">✦</span>
-                        <span className="logo-text">Craftly</span>
+                        <span className="logo-text">Pixora</span>
                     </div>
                     <p className="footer-text">Design visually. Ship code instantly.</p>
                 </div>
